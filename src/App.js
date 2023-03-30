@@ -37,7 +37,7 @@ const App = () => {
         <br/>
         <button type="submit">Try it!</button>
         <br/>
-        <iframe src="https://clips.twitch.tv/embed?clip=HandsomeRepleteStapleChocolateRain-op5qUPPVR_H4pw3X&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+        <iframe src="https://clips.twitch.tv/embed?clip=HandsomeRepleteStapleChocolateRain-op5qUPPVR_H4pw3X&parent=master.d2xd9vn1ih1w2i.amplifyapp.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
       </form>
       <br/>
       <React.Fragment>
